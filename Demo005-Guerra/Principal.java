@@ -5,7 +5,7 @@ public class Principal
     public static void main(){ 
         
         //Configuracion
-        int cantidadParticipantes = 10;
+        int cantidadParticipantes = 100;
         
         //Creando los participantes
         ArrayList<Participante> participantes = new  ArrayList<Participante> ();
@@ -46,8 +46,8 @@ public class Principal
         
     }
     
-    
-    public static Participante dameUnParticipante(){
+    //Obtiene aleatoriamente un PArticipante
+    private static Participante dameUnParticipante(){
         Participante p = null;
         int indice = randInt(0, 2);
         switch (indice){
@@ -67,7 +67,7 @@ public class Principal
     
     
     //Numero random aletario entre un rango especifico
-    public static int randInt(int min, int max) {
+    private static int randInt(int min, int max) {
         Random rand = new Random();
         int randomNum = rand.nextInt((max - min) + 1) + min;
         return randomNum;
