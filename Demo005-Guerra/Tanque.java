@@ -12,15 +12,29 @@ public class Tanque
         //enemigo.danio(400);
         
         //Ejemplo 2
-        if(enemigo instanceof Tanque){
-            enemigo.danio(500);
-        }else if(enemigo instanceof Avion){
-            enemigo.danio(200);
-        }else if(enemigo instanceof Soldado){
-            enemigo.danio(700);
-        }
+//         if(enemigo instanceof Tanque){
+//             enemigo.danio(500);
+//         }else if(enemigo instanceof Avion){
+//             enemigo.danio(200);
+//         }else if(enemigo instanceof Soldado){
+//             enemigo.danio(700);
+//         }
+        
+    //Ejemplo 3
+    enemigo.danio(enemigo.danioParaTanque());
         
         
-        
+    }
+    
+    public int danioParaTanque(){
+        return 500;
+    }
+    
+    public int danioParaAvion(){
+        return 600;
+    }
+    
+    public int danioParaSoldado(){
+        return 250;
     }
 }

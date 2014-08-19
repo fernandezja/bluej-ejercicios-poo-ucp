@@ -45,4 +45,11 @@ public abstract class Participante
     //Metodo "abstracto"
     public abstract String getNombreCompleto();
     
+    //Metodo "abstracto"
+    //Para obtener el danio para un Tipo especifo
+    public abstract int danioParaTanque();
+    public abstract int danioParaAvion();
+    public abstract int danioParaSoldado();
+    
+    
 }
