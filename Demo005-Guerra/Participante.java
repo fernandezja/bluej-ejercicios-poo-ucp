@@ -24,9 +24,10 @@ public abstract class Participante
     
     
     //Comportamiento (Metodos)
-    public void disparar(Participante enemigo){
-        enemigo.danio(400);
-    }
+    //Disparar, metodo asbtracto (de clase) 
+    //para ser implementado en cada subclase
+    public abstract void disparar(Participante enemigo);
+        
     
     public int danio(int valor){
         setVida(getVida() - valor);
