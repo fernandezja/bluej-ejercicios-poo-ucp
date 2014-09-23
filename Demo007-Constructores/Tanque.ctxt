@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ getLargoCanion()
+comment1.params=valor
+comment1.target=void\ setLargoCanion(int)
+comment2.params=nombre
+comment2.target=Tanque(java.lang.String)
+comment3.params=nombre\ largoCanion
+comment3.target=Tanque(java.lang.String,\ int)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
