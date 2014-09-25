@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ getNombre()
+comment1.params=valor
+comment1.target=void\ setNombre(java.lang.String)
+comment2.params=enemigo
+comment2.target=int\ disparar(Participante)
+comment3.params=enemigo
+comment3.target=int\ dispararAQuemarropa(IParticipanteConEscudo)
+comment4.params=
+comment4.target=int\ protegerse()
+comment5.params=nombre
+comment5.target=Participante(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

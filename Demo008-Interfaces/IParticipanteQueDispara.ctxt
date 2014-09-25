@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=enemigo
+comment0.target=int\ disparar(Participante)
+comment1.params=enemigo
+comment1.target=int\ dispararAQuemarropa(IParticipanteConEscudo)
+numComments=2
