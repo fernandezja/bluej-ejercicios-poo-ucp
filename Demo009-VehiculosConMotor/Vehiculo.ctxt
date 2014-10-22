@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Motor\ getMotor()
+comment1.params=valor
+comment1.target=void\ setMotor(Motor)
+comment2.params=
+comment2.target=Vehiculo()
+comment3.params=
+comment3.target=void\ moverse()
+numComments=4
