@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.util.ArrayList\ getCorreos()
+comment1.params=valor
+comment1.target=void\ setCorreos(java.util.ArrayList)
+comment2.params=
+comment2.target=BandejaBase()
+numComments=3

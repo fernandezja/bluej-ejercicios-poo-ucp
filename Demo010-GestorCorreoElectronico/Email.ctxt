@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ getAsunto()
+comment1.params=valor
+comment1.target=void\ setAsunto(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getContenido()
+comment3.params=valor
+comment3.target=void\ setContenido(java.lang.String)
+comment4.params=
+comment4.target=Contacto\ getPara()
+comment5.params=valor
+comment5.target=void\ setPara(Contacto)
+comment6.params=
+comment6.target=Contacto\ getCc()
+comment7.params=valor
+comment7.target=void\ setCc(Contacto)
+comment8.params=
+comment8.target=Email()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10
