@@ -22,6 +22,16 @@ public class Tanque
       
     }
 
+    public void disparar(Tanque enemigo){
+        int vidaParaQuitar = 10;
+        if ((enemigo.getVida()-vidaParaQuitar) < 0)
+            return;
+            
+        enemigo.setVida(enemigo.getVida()-vidaParaQuitar);
+        return;
+        
+    }
+    
     public boolean estaVivo(){
            return (getVida() > 0);
     }
