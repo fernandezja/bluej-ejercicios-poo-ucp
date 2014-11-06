@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.util.ArrayList\ getSuperPoderes()
+comment1.params=valor
+comment1.target=void\ setSuperPoderes(java.util.ArrayList)
+comment2.params=
+comment2.target=SuperHeroe()
+comment3.params=
+comment3.target=void\ atacar()
+comment4.params=
+comment4.target=void\ defender()
+numComments=5
