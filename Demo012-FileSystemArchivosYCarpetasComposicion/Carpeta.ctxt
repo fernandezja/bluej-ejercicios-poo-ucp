@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.util.ArrayList\ getItems()
+comment1.params=valor
+comment1.target=void\ setItems(java.util.ArrayList)
+comment2.params=
+comment2.target=int\ getTamanio()
+comment3.params=
+comment3.target=Carpeta()
+numComments=4

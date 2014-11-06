@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ getNombre()
+comment1.params=valor
+comment1.target=void\ setNombre(java.lang.String)
+comment2.params=
+comment2.target=int\ getTamanio()
+comment3.params=valor
+comment3.target=void\ setTamanio(int)
+comment4.params=
+comment4.target=ItemBase()
+comment5.params=nombre\ tamanio
+comment5.target=ItemBase(java.lang.String,\ int)
+numComments=6
