@@ -32,6 +32,10 @@ public class Tanque
         
     }
     
+    public boolean estaVivo2(){
+           return (getVida() > 0);
+    }
+    
     public boolean estaVivo(){
            return (getVida() > 0);
     }

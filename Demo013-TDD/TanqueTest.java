@@ -42,7 +42,7 @@ public class TanqueTest
         tanque1.setVida(1);
         
         //Afirmacion
-        assertEquals(true,tanque1.estaVivo());
+        assertEquals(true,tanque1.estaVivo2());
         
     }
     
